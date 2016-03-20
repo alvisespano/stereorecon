@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons" >
+        <file>resources/insert-image.png</file>
+        <file>resources/pin2.png</file>
+        <file>resources/process-stop.png</file>
+    </qresource>
+</RCC>
